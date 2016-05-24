@@ -1,6 +1,7 @@
 #Shiny Tutorial 
 by Ted Laderas (with contributions from Aurora Blucher, Ryan Swan and Eric Leung)
 
+
 This is a self-guided tutorial for learning the basics of Shiny for interactive visualization. To run, you will need the following:
 
 - Rstudio
